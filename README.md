@@ -24,7 +24,15 @@ Limites mínimo/máximo por nutriente/substância e faixa etária.
 |---|---|
 | Categoria | Categoria do nutriente (ex. Minerais, Vitaminas, Lipídeos) |
 | Nutriente/Substância Bioativa/Enzima | Nome do nutriente/substância |
-| 0 a 6 meses … Gestantes | Limite mínimo/máximo de uso diário para cada grupo populacional. "Não autorizado" significa que a IN 28/2018 (Art. 2º/3º) não autoriza suplementos gerais para essa faixa — lactentes e crianças de primeira infância (0-3 anos) têm lista própria (Anexo II), fora do escopo deste painel. |
+| 0 a 6 meses | Limite mínimo/máximo de uso diário. "Não autorizado" — Art. 2º da IN 28/2018 exclui lactentes (0-12 meses) da lista geral; eles têm lista própria (Anexo II), fora do escopo deste painel |
+| 7 a 11 meses | Idem acima — ainda dentro da faixa de lactentes excluída pelo Art. 2º |
+| 1 a 3 anos | Idem acima — crianças de primeira infância, também excluídas pelo Art. 2º/3º |
+| 4 a 8 anos | Limite mínimo/máximo de uso diário para essa faixa |
+| 9 a 18 anos | Limite mínimo/máximo de uso diário para essa faixa |
+| Maiores 19 anos | Limite mínimo/máximo de uso diário para adultos |
+| Lactantes | Limite mínimo/máximo de uso diário para lactantes (mães amamentando, não confundir com "lactentes" = bebês) |
+| Gestantes | Limite mínimo/máximo de uso diário para gestantes |
+| Observações | Notas adicionais sobre o limite, quando houver |
 
 ## Como atualizar os dados
 
