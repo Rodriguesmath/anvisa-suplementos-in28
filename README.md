@@ -59,4 +59,3 @@ O painel da Anvisa tem 2 erros de digitação confirmados contra o texto oficial
 ## Fontes usadas na validação
 - [IN 28/2018 — texto consolidado (PDF oficial)](https://anexosportal.datalegis.net/arquivos/1874597.pdf)
 - [IN 102/2021 — texto oficial (DOU)](https://www.fukumaadvogados.com.br/wp-content/uploads/2021/10/IN-102-2021-Atualiza%C3%A7%C3%A3o-Lista-IN-28_18-Supl-Alim.pdf)
-- `archive/` guarda uma extração anterior do texto consolidado da IN 28/2018 (Anexos I-VI, formato XML) usada para essa validação cruzada.
